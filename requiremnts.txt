@@ -1,0 +1,4 @@
+tpot
+pandas 
+numpy
+scikit-learn
